@@ -1,6 +1,6 @@
 # Rhala Beach Resort Shop
 
-Welcome to the Rhala Beach Resort Shop! This project is a part of the Rhala Beach Resort's initiative to support and conserve Sri Lankan handicrafts and handicrafters. The online shop showcases a variety of handmade products, allowing users to purchase them and support local artists. 
+Welcome to the Rhala Beach Resort Shop! This project is a part of the Rhala Beach Resort's initiative to support and conserve Sri Lankan handicrafts and handicrafters. The online shop showcases a variety of handmade products, allowing users to purchase them and support local artists. (Sustainable Development Goal Target 8.9 addresses the need to devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products.)
 
 ## Table of Contents
 - [Introduction](#introduction)
